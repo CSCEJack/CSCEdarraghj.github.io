@@ -6,3 +6,15 @@ h1 {
     text-align: center;
     color:black
 }
+
+.projects {
+    display:flex;
+    flex-wrap:wrap;
+}
+.project {
+    width: 30%;
+    margin: 10px;
+    padding: 20 px 10 px;
+    background: green;
+    border-radius: 25%;
+}
