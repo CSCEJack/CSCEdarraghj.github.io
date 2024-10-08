@@ -12,7 +12,8 @@ h1 {
     flex-wrap:wrap;
 }
 .project {
-    width: 30%;
+    width: 123%;
+    height: 123%;
     margin: 10px;
     padding: 20 px 10 px;
     background: green;
